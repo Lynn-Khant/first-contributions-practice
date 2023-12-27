@@ -7,6 +7,7 @@
 - [Toph](https://github.com/IndexChris)
 - [Navin P](https://github.com/mep1tz)
 - [Amol Pardeshi](https://github.com/AmolPardeshi99)
+- [Lynn Khant](https://github.com/Lynn-Khant)
 - [Shahil Kumar](https://github.com/Shahil9728)
 - [Sabri Cihan Bircan] (https://github.com/SabriCihan)
 - [Looki](https://github.com/Looki-fr)
